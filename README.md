@@ -43,11 +43,11 @@
 </h1>
 <p align="center">
 	<a href="https://twitter.com/NitzanGavrilov">
-	<img alt="Yan's Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
+	<img alt="Nitzan's Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
 	<a href="https://www.linkedin.com/in/nitzangavrilov/">
-	<img alt="Yan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
+	<img alt="Nitzan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
 	  <a href="https://open.spotify.com/user/6b0zctcf5492bocqfd4s2qqmy?si=ZN6Ca-7pQDOqbF99zQlS-A">

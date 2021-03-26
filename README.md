@@ -50,8 +50,8 @@
 	<img alt="Yan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
-	<a href="https://open.spotify.com/user/21y2oy426niccfltpqbf2nezy?si=_eD2FWeBSoycV6MdvPmG6w">
-	<img alt="Nitzan's Spotify" width="32px" src="https://open.spotify.com/user/6b0zctcf5492bocqfd4s2qqmy?si=ZN6Ca-7pQDOqbF99zQlS-A" style="max-width:100%;">
-	</a>
+	  <a href="https://open.spotify.com/user/6b0zctcf5492bocqfd4s2qqmy?si=ZN6Ca-7pQDOqbF99zQlS-A">
+    <img alt="Nitzan's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width:100%;">
+    </a>
 
 </p>
